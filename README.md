@@ -1,6 +1,6 @@
 # Databricks-COVID19
 
-**Download the HTML file `ROBERRF_project5.html` to see the notebook results**
+View analysis at https://rickslick3.github.io/Databricks-COVID19/ 
 
 ## Project Data
 - Click [**HERE**](https://ourworldindata.org/covid-vaccinations) to see the data used in this project
